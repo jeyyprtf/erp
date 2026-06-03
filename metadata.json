@@ -1,0 +1,6 @@
+{
+  "name": "ERP Nexus",
+  "description": "A highly polished, interactive neumorphic IoT & Mobile Workspace console to track sprint workloads, coordinate kanban steps, delegate user tasks, and log meeting alignments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
